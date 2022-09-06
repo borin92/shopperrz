@@ -15,5 +15,8 @@
     "mongoose": "^6.2.4",
     "mysql": "^2.18.1",
     "nodemon": "^2.0.15"
+  },
+  "devDependencies": {
+    "jest": "^29.0.2"
   }
 }
